@@ -42,7 +42,7 @@ Proyecto de clasificación automática de géneros musicales utilizando técnica
 
 - `Clasificacion_GTZAN_Output.pdf`: Versión en PDF del notebook, útil para revisión sin necesidad de ejecutar el entorno.
 
-> ⚠️ **Nota**: Este proyecto requiere el dataset [GTZAN](http://marsyas.info/downloads/datasets.html), que **no está incluido en el repositorio** por motivos de licencia y tamaño. Debes descargarlo manualmente y ubicarlo en la ruta esperada por el notebook (ver instrucciones dentro del mismo).
+> ⚠️ **Nota**: Este proyecto requiere el dataset [GTZAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification), que **no está incluido en el repositorio** por motivos de licencia y tamaño. Debes descargarlo manualmente y ubicarlo en la ruta esperada por el notebook (ver instrucciones dentro del mismo).
 
 #### 🎧 Géneros musicales clasificados
 
