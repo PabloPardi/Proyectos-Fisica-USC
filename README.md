@@ -75,4 +75,26 @@ Proyecto de clasificación automática de géneros musicales utilizando técnica
 ```bash
 cd Machine-Learning-GTZAN-Clasificacion_Generos_Musicales
 jupyter notebook Clasificacion_GTZAN.ipynb
+```
+
+### 3. `Estudio_de_la_decoherencia_y_determinismo_con_blancos_activos`
+
+**Trabajo de Fin de Grado (TFG)** en Física presentado en la Universidad de Santiago de Compostela. Este estudio aborda en profundidad el fenómeno de la **decoherencia cuántica** y su relación con el **determinismo**, mediante el análisis de interferometría de onda-materia y la propuesta de implementación experimental en sistemas con **blancos activos**.
+
+#### 📂 Contenido
+
+- `Estudio_de_la_decoherencia_y_determinismo_con_blancos_activos.pdf`: Documento completo del TFG, incluyendo desarrollo teórico, cálculos, simulaciones y propuesta experimental.
+
+#### 📄 Descripción
+
+- Análisis detallado de la **decoherencia inducida por colisiones**.
+- Aplicación del modelo teórico de Hornberger et al. a moléculas de fullereno y haces de electrones.
+- Propuesta de experimento dentro del detector **ACTAR TPC** como entorno controlado para estudiar la pérdida de coherencia cuántica.
+- Discusión sobre aplicaciones tecnológicas: computación cuántica, interferometría electrónica, holografía, etc.
+
+#### 👤 Autoría
+
+- **Autor**: Pablo Pardiñas Busto  
+- **Tutora**: Beatriz Fernández Domínguez  
+- Departamento de Física de Partículas, IGFAE – Universidade de Santiago de Compostela
 
