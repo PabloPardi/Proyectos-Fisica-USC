@@ -12,7 +12,7 @@ Proyecto de simulación visual que representa distintas etapas de la historia bi
 
 #### 📂 Contenido
 
-- `Trabajo_Simulacion_Historia_Biofisica_Tierra.pdf`: Informe explicativo detallado del proyecto (metodología, desarrollo y resultados).
+- `Simulacion_Historia_Biofisica_Tierra.pdf`: Informe explicativo detallado del proyecto (metodología, desarrollo y resultados).
 - `Códigos/`: Carpeta con los scripts de Python que implementan la simulación usando `pygame`.
 
 #### 🛠 Tecnologías utilizadas
@@ -34,13 +34,13 @@ Proyecto de clasificación automática de géneros musicales utilizando técnica
 
 #### 📂 Contenido
 
-- `Clasificacion_GTZAN.ipynb`: Notebook de Jupyter con todo el código fuente, incluyendo:
+- `GTZAN_Clasificacion_musical.ipynb`: Notebook de Jupyter con todo el código fuente, incluyendo:
   - Extracción de características del audio (MFCC, Chroma, etc.).
   - Preprocesamiento de datos.
   - Construcción y entrenamiento del modelo.
   - Evaluación y visualización de resultados.
 
-- `Clasificacion_GTZAN_Output.pdf`: Versión en PDF del notebook, útil para revisión sin necesidad de ejecutar el entorno.
+- `GTZAN_Clasificacion_musical_Output.pdf`: Versión en PDF del notebook, útil para revisión sin necesidad de ejecutar el entorno.
 
 > ⚠️ **Nota**: Este proyecto requiere el dataset [GTZAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification), que **no está incluido en el repositorio** por motivos de licencia y tamaño. Debes descargarlo manualmente y ubicarlo en la ruta esperada por el notebook (ver instrucciones dentro del mismo).
 
