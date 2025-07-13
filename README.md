@@ -25,6 +25,7 @@ Proyecto de simulación visual que representa distintas etapas de la historia bi
 ```bash
 cd Simulacion-Historia-Biofisica-Tierra/codigos
 python main.py
+```
 
 
 ### 2. `Machine-Learning-GTZAN-Clasificacion_Generos_Musicales`
