@@ -69,9 +69,8 @@ Proyecto de clasificación automática de géneros musicales utilizando técnica
 
 #### ▶️ Cómo ejecutar
 
-1. Descarga el dataset GTZAN desde [kaggle](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
-2. Extrae el contenido en una carpeta (por ejemplo: `./genres/`) tal como se indica en el notebook.
-3. Ejecuta el notebook:
+1. Descarga el dataset [GTZAN](https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification).
+2. Ejecuta el notebook:
 
 ```bash
 cd Machine-Learning-GTZAN-Clasificacion_Generos_Musicales
